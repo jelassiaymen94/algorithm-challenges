@@ -1,0 +1,6 @@
+OUTPUT 'Enter distance'
+distance ← USERINPUT
+OUTPUT 'Enter time'
+time ← USERINPUT
+speed ← distance / time
+OUTPUT speed
