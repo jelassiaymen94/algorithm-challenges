@@ -1,0 +1,5 @@
+OUTPUT 'Enter your surname'
+surname ← USERINPUT
+OUTPUT 'Enter your name'
+name ← USERINPUT
+OUTPUT surname , name
