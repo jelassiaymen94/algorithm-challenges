@@ -1,0 +1,8 @@
+OUTPUT 'how many minutes'
+minutes ← USERINPUT
+OUTPUT 'how many text'
+text ← USERINPUT
+totalm ← minutes * 0.1
+totalt ← text * 0.05
+total ← totalm + totalt + 10
+OUTPUT total
